@@ -1,12 +1,15 @@
 # pstctask
+clone the app by
 
-This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.14.0.
+git clone "https://github.com/nikhilfusion/HospitalOpenTiming.git"
 
-## Build & development
+install bower components and node modules by
 
-Run `grunt` for building and `grunt serve` for preview.
+bower install && npm install
 
-## Testing
 
-Running `grunt test` will run the unit tests with karma.
+run the application by
+
+grunt serve
+
+************* Thank you ********
